@@ -40,7 +40,7 @@ class ViewController: UIViewController {
 //        textField.background = .white
 //        textField.keyboardType = .namePhonePad
         // MARK: Button
-        mainButton.layer.cornerRadius = 10
+        mainButton.layer.cornerRadius = 9
         mainButton.setTitle("Готово", for: .normal)
         // MARK: DatePicker
         
